@@ -139,7 +139,7 @@ body {
             rgba(0, 0, 0, 0.92),
             rgba(0, 0, 0, 0.72),
             rgba(0, 0, 0, 0.9)),
-        url("../images/intro-bg.jpg");
+        url("./intro-bg.jpg");
 
     background-size: cover;
     background-position: center;
